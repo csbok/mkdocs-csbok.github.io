@@ -1,0 +1,5 @@
+site_name: 삽질은 한번뿐 
+pages:
+    - Home: index.md
+    - About: about.md
+theme: 'material' 
